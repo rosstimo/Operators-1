@@ -29,12 +29,11 @@ Module Operators
         Console.WriteLine(3 = 4)
         Console.WriteLine("A" > "B") 'This uses the ASCII table
 
-        'Time to draw a Triangle 
-
+  
         Console.WriteLine("   /\")
         Console.WriteLine("  /  \")
         Console.WriteLine(" /    \")
-        Console.WriteLine("/______\")
+        Console.WriteLine("/______\)
 
         Console.ReadLine()
 
