@@ -1,4 +1,13 @@
-﻿Module Operators
+﻿'Spencer Gilchrist
+'RCET0265
+'Spring 2021
+'Operators
+'https://github.com/SpencerGilchrist/Operators.git
+
+
+
+
+Module Operators
 
     Sub Main()
 
@@ -12,6 +21,20 @@
         Console.WriteLine(1 Mod 2) 'Mod just takes the Remainder
         Console.WriteLine(3 * 2)
 
+        'Comparing numbers
+
+        Console.WriteLine(3 > 4)
+        Console.WriteLine(3 < 4)
+        Console.WriteLine(3 <> 4)
+        Console.WriteLine(3 = 4)
+        Console.WriteLine("A" > "B") 'This uses the ASCII table
+
+        'Time to draw a Triangle 
+
+        Console.WriteLine("   /\")
+        Console.WriteLine("  /  \")
+        Console.WriteLine(" /    \")
+        Console.WriteLine("/______\")
 
         Console.ReadLine()
 
