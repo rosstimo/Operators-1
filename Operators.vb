@@ -33,7 +33,7 @@ Module Operators
         Console.WriteLine("   /\")
         Console.WriteLine("  /  \")
         Console.WriteLine(" /    \")
-        Console.WriteLine("/______\)
+        Console.WriteLine("/______\")
 
         Console.ReadLine()
 
