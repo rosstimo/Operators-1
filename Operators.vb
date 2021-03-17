@@ -40,4 +40,9 @@ Module Operators
 
     End Sub
 
+    Sub Hello()
+        Console.WriteLine("Hello, World!")
+    End Sub
+
+
 End Module
